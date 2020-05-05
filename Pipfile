@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+
+[packages]
+django-debug-toolbar = "==2.2"
+python-decouple = "==3.3"
+pytz = "==2020.1"
+sqlparse = "==0.3.1"
+psycopg2 = "==2.8.5"
+Django = "==3.0.5"
+autopep8 = "*"
+pep8 = "*"
+pycodestyle = "*"
+django-environ = "*"
+
+[requires]
+python_version = "3.8"
