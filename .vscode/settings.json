@@ -15,5 +15,9 @@
         "**/*.pyc": true,
         "**/*venv": true,
         "**/__pycache__": true
-    }
+    },
+    // Linux bash
+    // "terminal.integrated.shellArgs.linux": [
+    //     "-l"
+    // ]
 }

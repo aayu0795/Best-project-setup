@@ -6,6 +6,7 @@ media
 *.sqlite3
 *.venv
 *static_root/
+dump.rdb
 
 # Accept these files in the repository
 !.gitignore
